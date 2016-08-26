@@ -1,13 +1,14 @@
 # CV - Katherine Bowler
 
-| Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
-|:---------:|:--------------------:|:---------:|:------------:|:---------:|
-| JavaScript| Hapi.js              | Tape      | Git          | Redis     |
-| Node.js   | React.js             | Jasmine   | npm          | PostgreSQL|
-| HTML5     | Bootstrap            | QUnit     | GitHub Pages | |
-| CSS3      | Sass                 |           |              | |
-| Markdown  | Materialize          |           |              | |
-|           | Material UI          |           |              | |
+| Languages | Frameworks/Libraries | Testing   | Tools/Others       | Databases    |
+|:---------:|:--------------------:|:---------:|:------------------:|:------------:|
+| JavaScript| Hapi.js              | Tape      | Git                | Redis        |
+| Node.js   | React.js             | Jasmine   | npm                | PostgreSQL   |
+| HTML5     | Bootstrap            | QUnit     | GitHub Pages       | Elasticsearch|
+| CSS3      | Sass                 |           | Application Cache  | MySQL        |
+| Markdown  | Materialize          |           |                    | |
+|           | Material UI          |           |                    | |
+|           | Handlebars           |           |                    | |
 
 ## Experience
 ### Founders and Coders CIC
