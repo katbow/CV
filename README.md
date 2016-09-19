@@ -38,6 +38,7 @@ activities, which resulted in winning the House Cup
 * [AgeUK STEPS app](https://github.com/ageuk/companion-app)
 * [Yoti Prototype](https://github.com/yoti-prototypes/prototype)(Close source)
 * [SharePlan](https://github.com/FAC7/SharePlan)
+* [Shamazon](https://github.com/FAC7/amazon2.0) - worked as developer and Project Manager
 * [Breast Cancer Care - Hackathon](https://github.com/katbow/breastcancercare)
 * [Worthwhile Hackathon](https://github.com/katbow/worthwhile-hackathon)
 * [Day/Night stopwatch](https://github.com/vanillasquad/day-night-stopwatch)
